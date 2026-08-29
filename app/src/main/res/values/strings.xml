@@ -41,7 +41,7 @@
 
     <!-- Search -->
     <string name="search">Ara</string>
-    <string name="search_yt_music">YouTube Music'te Ara…</string>
+    <string name="search_yt_music">YouTube Music üzerinde ara…</string>
     <string name="search_library">Kütüphanede Ara…</string>
     <string name="filter_library">Kütüphane</string>
     <string name="filter_liked">Beğenilenler</string>
@@ -73,8 +73,8 @@
     <string name="liked_songs">Beğenilen Şarkılar</string>
     <string name="downloaded_songs">İndirilen Şarkılar</string>
     <string name="playlist_is_empty">Oynatma listesi boş</string>
-    <string name="remove_download_playlist_confirm">\"%s\" oynatma listesindeki tüm şarkıları İndirilen Şarkılar alanından kaldırmak istediğinize emin misiniz?</string>
-    <string name="delete_playlist_confirm">\"%s\" oynatma listesini silmek istediğinize emin misiniz?</string>
+    <string name="remove_download_playlist_confirm">Seçilen oynatma listesindeki tüm şarkıları İndirilen Şarkılar alanından kaldırmak istediğinize emin misiniz?</string>
+    <string name="delete_playlist_confirm">Oynatma listesini silmek istediğinize emin misiniz?</string>
 
     <!-- Button -->
     <string name="retry">Tekrar Dene</string>
@@ -191,7 +191,7 @@
 
     <!-- Snackbar -->
     <string name="playlist_imported">Oynatma listesi içe aktarıldı</string>
-    <string name="removed_song_from_playlist">\"%s\" oynatma listesinden kaldırıldı</string>
+    <string name="removed_song_from_playlist">Oynatma listesinden kaldırıldı</string>
     <string name="playlist_synced">Oynatma listesi eşitlendi</string>
     <string name="undo">Geri Al</string>
 
@@ -263,9 +263,9 @@
     <string name="content_language">Varsayılan İçerik Dili</string>
     <string name="content_country">Varsayılan İçerik Ülkesi</string>
     <string name="system_default">Sistem Varsayılanı</string>
-    <string name="enable_proxy">Vekil Sunucuyu (Proxy) Etkinleştir</string>
+    <string name="enable_proxy">Vekil Sunucuyu Etkinleştir</string>
     <string name="proxy_type">Proxy Türü</string>
-    <string name="proxy_url">Proxy URL'si</string>
+    <string name="proxy_url">Proxy URL adresi</string>
     <string name="restart_to_take_effect">Etkili Olması İçin Yeniden Başlatın</string>
 
     <string name="player_and_audio">Oynatıcı ve Ses</string>
@@ -277,9 +277,9 @@
     <string name="persistent_queue">Kalıcı Kuyruk</string>
     <string name="persistent_queue_desc">Uygulama açıldığında son kuyruğunuzu geri yükler</string>
     <string name="auto_load_more">Otomatik Daha Fazla Şarkı Yükle</string>
-    <string name="auto_load_more_desc">Kuyruğun sonuna gelindiğinde mümkünse otomatik olarak daha fazla şarkı ekler</string>
+    <string name="auto_load_more_desc">Kuyruğun sonuna gelindiğinde otomatik olarak daha fazla şarkı ekler</string>
     <string name="skip_silence">Sessizliği Atla</string>
-    <string name="audio_normalization">Ses Dengeleme (Normalizasyon)</string>
+    <string name="audio_normalization">Ses Dengeleme</string>
     <string name="auto_skip_next_on_error">Hata Olduğunda Otomatik Sonraki Şarkıya Geç</string>
     <string name="auto_skip_next_on_error_desc">Kesintisiz bir dinleme deneyimi sağlar</string>
     <string name="stop_music_on_task_clear">Uygulama Kapatıldığında Müziği Durdur</string>
@@ -308,12 +308,12 @@
     <string name="clear_search_history">Arama Geçmişini Temizle</string>
     <string name="clear_search_history_confirm">Tüm arama geçmişinizi temizlemek istediğinizden emin misiniz?</string>
     <string name="use_login_for_browse">İçerik Görüntülemek İçin Oturumu Kullan</string>
-    <string name="use_login_for_browse_desc">Bu seçenek gördüğünüz içerikleri etkiler (Örn: Premium hesabınız varsa premium albümleri gösterir)</string>
+    <string name="use_login_for_browse_desc">Bu seçenek gördüğünüz içerikleri etkiler</string>
     <string name="disable_screenshot">Ekran Görüntüsünü Engelle</string>
-    <string name="disable_screenshot_desc">Etkinleştirildiğinde uygulama içi ekran görüntüsü alınamaz ve son uygulamalar menüsünde görünmez.</string>
+    <string name="disable_screenshot_desc">Etkinleştirildiğinde uygulama içi ekran görüntüsü alınamaz.</string>
     <string name="enable_lrclib">LrcLib Şarkı Sözü Sağlayıcısını Etkinleştir</string>
     <string name="enable_kugou">KuGou Şarkı Sözü Sağlayıcısını Etkinleştir</string>
-    <string name="hide_explicit">Uygunsuz (Explicit) İçeriği Gizle</string>
+    <string name="hide_explicit">Uygunsuz İçeriği Gizle</string>
 
     <string name="backup_restore">Yedekle ve Geri Yükle</string>
     <string name="action_backup">Yedekle</string>
@@ -324,11 +324,11 @@
     <string name="restore_failed">Yedekleme geri yüklenemedi</string>
 
     <string name="discord_integration">Discord Entegrasyonu</string>
-    <string name="discord_information">InnerTune, Discord durumunuzu ayarlamak için KizzyRPC kütüphanesini kullanır. Bu işlem Discord şartlarını ihlal edebilir ancak ceza alan görülmemiştir. Sorumluluk kullanıcıya aittir.\n\nTüm veriler yerel olarak saklanır.</string>
+    <string name="discord_information">Altun, Discord durumunuzu ayarlamak için KizzyRPC kütüphanesini kullanır.</string>
     <string name="dismiss">Kapat</string>
     <string name="options">Seçenekler</string>
     <string name="preview">Önizleme</string>
-    <string name="enable_discord_rpc">Zengin Varlığı (Rich Presence) Etkinleştir</string>
+    <string name="enable_discord_rpc">Rich Presence Etkinleştir</string>
 
     <string name="about">Hakkında</string>
     <string name="app_version">Uygulama Sürümü</string>
